@@ -1,0 +1,10 @@
+.ground
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../imges/photo_5931375301093343459_x.jpg);
+    background-size: cover;
+    background-position:center;
+}
+h1,h4{
+    font-family: "Josefin Sans", sans-serif;
+
+}
